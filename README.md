@@ -1,0 +1,2 @@
+# whitepaper
+GameDao WhitePaper
